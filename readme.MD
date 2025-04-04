@@ -4,8 +4,9 @@
 * karam
 * Oil
 
-# Egg dosa
+# Egg Dosa
 
-* Dosa Flour
-* 2 Eggs
+* 1 eggs
+* oil
 * karam
+* Dosa Flour
