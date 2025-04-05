@@ -13,6 +13,8 @@
 
 # Special Dosa
 * Dosa Batter
+* Bombai Chuttney
 * Podi
-* Karam
 * oil
+* karam
+
